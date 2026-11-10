@@ -12,4 +12,4 @@
 | TP1 | Smart Internship Match | [Repo](https://github.com/taharachedi/smart-internship-match) | [Dashboard](https://taharachedi.github.io/smart-internship-match/) |
 | TP2 | ENSIM Trade Center (cycle-forecast trader) | [Repo](https://github.com/taharachedi/ensim-trader-taharachedi) | [Dashboard](https://taharachedi.github.io/ensim-trader-taharachedi/) |
 
-Each project contains its own `REFLECTIONS.md`.
+Each TD contains its own `REFLECTIONS.md`; each TP is documented by its `README.md` (project report).
