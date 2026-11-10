@@ -9,7 +9,7 @@
 | TD3 | Web scraping to KPI (job skills) | [Repo](https://github.com/taharachedi/td-scraping-to-kpi) | [Dashboard](https://taharachedi.github.io/td-scraping-to-kpi/) |
 | TD4 | CO2 time series: cleaning, smoothing, projection | [Repo](https://github.com/taharachedi/td-time-series) | [Dashboard](https://taharachedi.github.io/td-time-series/) |
 | TD5 | Logistics network: three roles, three dashboards | [Repo](https://github.com/taharachedi/td-logistics-dashboards) | [Dashboard](https://taharachedi.github.io/td-logistics-dashboards/) |
-| TP1 | *coming soon* | | |
+| TP1 | Smart Internship Match | [Repo](https://github.com/taharachedi/smart-internship-match) | [Dashboard](https://taharachedi.github.io/smart-internship-match/) |
 | TP2 | *coming soon* | | |
 
 Each project contains its own `REFLECTIONS.md`.
