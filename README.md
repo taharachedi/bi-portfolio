@@ -8,7 +8,7 @@
 | TD2 | Smart Mobility Le Mans | [Repo](https://github.com/taharachedi/smart-mobility-lemans) | [Dashboard](https://taharachedi.github.io/smart-mobility-lemans/) |
 | TD3 | Web scraping to KPI (job skills) | [Repo](https://github.com/taharachedi/td-scraping-to-kpi) | [Dashboard](https://taharachedi.github.io/td-scraping-to-kpi/) |
 | TD4 | CO2 time series: cleaning, smoothing, projection | [Repo](https://github.com/taharachedi/td-time-series) | [Dashboard](https://taharachedi.github.io/td-time-series/) |
-| TD5 | *coming soon* | | |
+| TD5 | Logistics network: three roles, three dashboards | [Repo](https://github.com/taharachedi/td-logistics-dashboards) | [Dashboard](https://taharachedi.github.io/td-logistics-dashboards/) |
 | TP1 | *coming soon* | | |
 | TP2 | *coming soon* | | |
 
